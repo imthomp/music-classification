@@ -1,10 +1,8 @@
 # Music Classification
 
 # Proposal
-
-## Music Classification
-## Garrett Springer
-## 7/10
+Garrett Springer
+7/10
 
 ## Description
 I want to be able to classify a song into a genre based on its song features. I like listening to music and I think it would be interesting to be able to take data based on a song and be able to say which category it falls into. This seems like something a company like spotify would do, because of the sheer amount of songs that they have, it would be nice to be able to automatically classify them into different genres. 
