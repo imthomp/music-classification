@@ -6,38 +6,27 @@ I want to be able to classify a song into a genre based on its song features. I 
 
 ## Data
 
-filename
-Filename as given in marsyas dataset.
+**filename**: Filename as given in marsyas dataset.
 
-tempo
-The speed at which a passage of music is played
+**tempo**: The speed at which a passage of music is played
 
-beats
-Rythmic unit in music
+**beats**: Rythmic unit in music
 
-chroma_stft
-Short Time Fourier Transform
+**chroma_stft**: Short Time Fourier Transform
 
-rmse
-Root Mean Square Error
+**rmse**: Root Mean Square Error
 
-spectral_centroid
-Indicates where the "center of mass" of the spectrum is located.
+**spectral_centroid**: Indicates where the "center of mass" of the spectrum is located.
 
-spectral_bandwidth
-It is the Wavelength interval in which a radiated spectral quantity is not less than half its maximum value
+**spectral_bandwidth**: It is the Wavelength interval in which a radiated spectral quantity is not less than half its maximum value
 
-rolloff
-Roll-off is the steepness of a transmission function with frequency
+**rolloff**: Roll-off is the steepness of a transmission function with frequency
 
-zero_crossing_rate
-The rate at which the signal changes from positive to negative or back
+**zero_crossing_rate**: The rate at which the signal changes from positive to negative or back
 
-mfcc1
-Mel-frequency cepstral coefficients (MFCCs) are coefficients that collectively make up an MFC.
+**mfcc1**: Mel-frequency cepstral coefficients (MFCCs) are coefficients that collectively make up an MFC.
 
-label
-Contains a string depicting the genre
+**label**: Contains a string depicting the genre
 
 | Feature            | Value |
 |--------------------|-------|
